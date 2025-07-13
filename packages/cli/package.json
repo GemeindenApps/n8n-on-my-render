@@ -107,6 +107,7 @@
     "@rudderstack/rudder-sdk-node": "2.1.4",
     "@sentry/node": "catalog:",
     "aws4": "1.11.0",
+    "appwrite": "^17.0.2",
     "axios": "catalog:",
     "bcryptjs": "2.4.3",
     "bull": "4.16.4",
